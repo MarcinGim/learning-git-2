@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  text-align: center;
+  margin-left: 20%;
+}
+
+h1 {
+  background-color: #FF814F;
+  margin: 0;
+}
+
+p {
+  background-color: #FF9F79;
+}
