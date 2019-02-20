@@ -1,0 +1,14 @@
+1/
+
+Usage:
+
+autoprefixer-cli -o main.prefixed.css main.css
+
+
+2/
+
+Nu-html-checker ma wyświetlać listę błędów we wszystkich plikach html
+
+To check all documents in a particular directory as HTML, but skip any documents whose names don’t end with the extensions .html, .htm, .xhtml, or .xht:
+
+java -jar ~/vnu.jar --skip-non-html some-directory-name/
